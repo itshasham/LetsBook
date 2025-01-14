@@ -1,0 +1,22 @@
+{
+  "tours": [
+    {
+      "tourName": "E11",
+      "tripStartDate": "2024-12-02",
+      "tripEndDate": "2024-12-03",
+      "lahorePickupTime": "2024-12-02T10:09:00Z",
+      "islamabadPickupTime": "13:47",
+      "pickupLocation": "Lahore",
+      "tourGuide": {
+        "name": "Hasham",
+        "phone": "1234"
+      },
+      "cost": 1207,
+      "itineraries": [
+        "test",
+        "test"
+      ],
+      "id": 2
+    }
+  ]
+}

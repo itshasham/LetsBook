@@ -1,0 +1,36 @@
+{
+  "accessories": [
+    {
+      "name": "A12",
+      "description": "1",
+      "category": "home",
+      "price": "1",
+      "stock": "1",
+      "featured": false,
+      "attributes": {
+        "size": "1",
+        "color": "1",
+        "personCapacity": "1",
+        "weight": "1",
+        "material": "1"
+      },
+      "id": 1
+    },
+    {
+      "name": "A3",
+      "description": "123",
+      "category": "electronics",
+      "price": "1200",
+      "stock": "3",
+      "featured": false,
+      "attributes": {
+        "size": "5",
+        "color": "blue",
+        "personCapacity": "2",
+        "weight": "10",
+        "material": "1"
+      },
+      "id": 2
+    }
+  ]
+}

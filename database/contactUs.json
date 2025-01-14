@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "email": "mail@gmail.com",
+      "phoneno": "1234",
+      "message": "msg",
+      "date": "2024-12-03T17:49:46.100Z"
+    },
+    {
+      "email": "mail@gmail.com",
+      "phoneno": "1234",
+      "message": "msg2",
+      "date": "2024-12-03T17:51:44.917Z"
+    },
+    {
+      "email": "mail@gmail.com",
+      "phoneno": "123",
+      "message": "123",
+      "date": "2024-12-03T17:52:52.174Z"
+    },
+    {
+      "email": "hashamt@gmail.com",
+      "phoneno": "0300",
+      "message": "help me",
+      "date": "2024-12-09T05:22:52.609Z"
+    }
+  ]
+}

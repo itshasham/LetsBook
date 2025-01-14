@@ -1,0 +1,43 @@
+.queries-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .queries-container h1 {
+    margin-bottom: 20px;
+    font-size: 32px;
+    color: #333;
+  }
+  
+  .queries-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .query-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .query-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .query-card p {
+    margin: 8px 0;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .query-card p strong {
+    color: #333;
+  }
+  
